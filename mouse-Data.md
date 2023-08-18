@@ -1,6 +1,6 @@
-# Mouse data workflow
+# Mouse data bulkRNAseq workflow
 
-This Pipeline is deal with bulkRNAseq mouse data start from fastq file to the fusion-gene, SNP and CNV in CC-LY lab
+This Pipeline is deal with **bulkRNAseq** mouse data start from fastq file to the fusion-gene, SNP and CNV in CC-LY lab
 
 ## Fusion-gene
 In this Pipeline we use three software: [**fusioncatcher**](https://github.com/ndaniel/fusioncatcher), [**STAR-Fusion**](https://github.com/STAR-Fusion/STAR-Fusion) and [**ericscript**](https://github.com/smsrts/EricScript) to predict fusion-gene
